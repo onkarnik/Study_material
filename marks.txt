@@ -1,0 +1,9 @@
+core java 	28
+OS		21
+dbt  		28
+WPT		23
+DSA		26
+MS .net		27
+--------------------
+AVG		TOTAL
+64.16%		154/240
